@@ -80,19 +80,11 @@ Output:
 
 ![Image](https://github.com/user-attachments/assets/33aab22c-9325-4135-8129-d44d8776c3fa)
 
-![Image](https://github.com/user-attachments/assets/b5af6f07-3291-465c-ac60-e03530c12297)
-
 ![Image](https://github.com/user-attachments/assets/b062c39c-68ae-4c04-a32a-f4db705391fc)
 
 ![Image](https://github.com/user-attachments/assets/de9355c1-521d-49e4-a507-275517cb9848)
 
 ![Image](https://github.com/user-attachments/assets/63fe726f-6ea7-4402-b8fa-1fb45db18621)
-
-![Image](https://github.com/user-attachments/assets/993b4480-a8bd-449c-ba50-3bc34c8953ab)
-
-![Image](https://github.com/user-attachments/assets/7364dc9f-73a4-4a6c-8d98-62f1964f79bb)
-
-![Image](https://github.com/user-attachments/assets/617efb7e-9e66-4316-b278-526152cf0b79)
 
 ![Image](https://github.com/user-attachments/assets/f396b5dd-19e5-446d-a040-3973f73e0504)
 
