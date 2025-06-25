@@ -2,7 +2,7 @@
 A browser-based machine learning solution that detects and prevents web spoofing (phishing) attacks in real-time. This project aims to enhance client-side security by analyzing URL patterns and page content through a trained ML model before allowing access, providing an extra layer of protection against phishing websites.
 # 🛡️ PhishCatcher — Client-side Defense Against Web Spoofing Attacks Using Machine Learning
 
-PhishCatcher is a web application that protects users against spoofed websites by detecting phishing URLs using machine learning models. Built using Django and integrated with real-time HTML prediction tools, it offers insights into user behavior and threat analytics.
+PhishCatcher is a web application that protects users against spoofed websites by detecting phishing URLs using machine learning models. Built using  Django and integrated with real-time HTML prediction tools, it offers insights into user behavior and threat analytics.
 
 ---
 
