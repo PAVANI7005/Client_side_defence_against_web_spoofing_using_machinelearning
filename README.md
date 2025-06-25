@@ -70,4 +70,38 @@ Used for training a decision tree or SVM model for classification.
 📜 License
 This project is licensed under the MIT License. Free to use, modify, and distribute.
 
+Output:
 
+![Image](https://github.com/user-attachments/assets/fd56e581-ece7-41ee-9c5c-cf3f151c6ea7)
+
+![Image](https://github.com/user-attachments/assets/20d26e8f-2bde-4a07-8840-29a2baab0f6f)
+
+![Image](https://github.com/user-attachments/assets/2fa43f3d-891b-4c62-b1c2-f1635b87e7db)
+
+![Image](https://github.com/user-attachments/assets/33aab22c-9325-4135-8129-d44d8776c3fa)
+
+![Image](https://github.com/user-attachments/assets/b5af6f07-3291-465c-ac60-e03530c12297)
+
+![Image](https://github.com/user-attachments/assets/b062c39c-68ae-4c04-a32a-f4db705391fc)
+
+![Image](https://github.com/user-attachments/assets/de9355c1-521d-49e4-a507-275517cb9848)
+
+![Image](https://github.com/user-attachments/assets/63fe726f-6ea7-4402-b8fa-1fb45db18621)
+
+![Image](https://github.com/user-attachments/assets/993b4480-a8bd-449c-ba50-3bc34c8953ab)
+
+![Image](https://github.com/user-attachments/assets/7364dc9f-73a4-4a6c-8d98-62f1964f79bb)
+
+![Image](https://github.com/user-attachments/assets/617efb7e-9e66-4316-b278-526152cf0b79)
+
+![Image](https://github.com/user-attachments/assets/f396b5dd-19e5-446d-a040-3973f73e0504)
+
+![Image](https://github.com/user-attachments/assets/f8ba5d8f-008f-45c2-a0a7-a0051f5769e6)
+
+![Image](https://github.com/user-attachments/assets/9e0a4117-b97c-4489-8284-780c28f05907)
+
+![Image](https://github.com/user-attachments/assets/13a2d1cc-93e5-4437-88cb-011fb90b48bf)
+
+![Image](https://github.com/user-attachments/assets/cb3c40e5-10e6-47ec-8ea9-220abf3c5ece)
+
+![Image](https://github.com/user-attachments/assets/1cb678fa-56d6-4d45-bae7-ebb0cba4f909)
